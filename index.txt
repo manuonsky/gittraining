@@ -1,1 +1,1 @@
-Hello Good afternoon Anmol. I am learning git today. I learned two ways to stage a file.
+Hello Good afternoon Anmol. I am learning git today.
